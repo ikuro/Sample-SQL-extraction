@@ -1,6 +1,6 @@
 # Sample-SQL-extraction
 
-** SQL query to create concatenated column when a specified condition is met
+## SQL query to create concatenated column when a specified condition is met
 
 ``` SQL
 SELECT DISTINCT a.beneficiary_id
